@@ -1,0 +1,17 @@
+	 Welcome Grocery Shop
+ Bill Number:2905
+ Customer Name:raju
+ Contact Number:789632564
+***********************************************
+PRODUCT		QTY		PRICE
+***********************************************
+Green Gram		3		225
+Black Gram		2		0
+Wheat		10		225
+Gram Flour		1		225
+Clove		10		225
+--------------------------------------------
+Total grocery tax:		Rs.43.199999999999996
+Total Grocery Cost:		Rs.1440.0
+Total Bill:		Rs.1483.2
+-------------------------------------------
